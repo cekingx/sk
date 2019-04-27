@@ -1,0 +1,19 @@
+{
+  "sk": [
+    {
+      "id": 1,
+      "judul": "Surat Keterangan Tidak Mampu",
+      "deskripsi": "Surat ini saya gunakan untuk mengajukan beasiswa bidikmisi"
+    },
+    {
+      "id": 2,
+      "judul": "Surat Keterangan Gaji",
+      "deskripsi": "Surat ini saya gunakan melengkapi berkas bidikmisi karena orang tua saya tidak memiliki slip gaji"
+    },
+    {
+      "id": 3,
+      "judul": "Surat Keterangan Tidak Menggunakan Telepon",
+      "deskripsi": "Surat ini saya gunakan melengkapi berkas bidikmisi"
+    }
+  ]
+}
