@@ -1,3 +1,5 @@
 {
-  "server_count": 2
+  "server": {
+    "server_count": 2
+  }
 }
