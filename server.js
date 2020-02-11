@@ -24,6 +24,6 @@ const router = jsonServer.router('db.json')
 
 // Use default router
 server.use(router)
-server.listen(3000, () => {
+server.listen(3003, () => {
   console.log('JSON Server is running')
 })

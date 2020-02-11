@@ -10,6 +10,7 @@
     "lowdb": "^1.0.0"
   },
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --port 3003 --watch db.json",
+    "dev": "node server.js"
   }
 }
